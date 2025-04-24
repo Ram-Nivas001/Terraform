@@ -19,4 +19,4 @@ terraform workspace list #by_default=default
 terraform workspace new <new_workspace_name>
 #now if i do- terraform state list nothing will appear here in new workspace
 terraform select workspace default
-#now if i do- terraform state list everything will appear here
+#now if i do- terraform state list everything will appear here 
