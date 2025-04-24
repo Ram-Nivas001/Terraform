@@ -4,6 +4,7 @@ This is a complete guide for kubeadm k8s setup using Terraform & ansible with 1 
 
 **----------Some_Useful_Terraform_Commands-------------**
 terraform init -- create enviornment
+
 terraform validate -- to check if any syntax error 
 terraform plan 
 terrafrom apply / terraform apply -auto-approve
